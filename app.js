@@ -1,5 +1,5 @@
 alert('Bem vindo ao nosso jogo do numero secreto'); // alerte seria o msgbox
-let numeroMaximo = 5000;
+let numeroMaximo = 4000;
 let numeroSecreto = parseInt(Math.random() * numeroMaximo) + 1;
 //let numeroSecreto = 10; // para definir um valor para a variavel é utilizado o let
 console.log('o numero secreto é'+numeroSecreto); // console.log vc consegue deixar alguns logs na parte de inpeção de codigo do navegador
